@@ -24,3 +24,20 @@ function saveUser(name, age) {
   localStorage.setItem("user", JSON.stringify(user));
   return user;
 }
+
+
+// Age verification
+function ageVerification(age) {
+  if (age < 18) {
+    adultMessage.textContent = "❌ You are too young for adult content.";
+  } else {
+    adultMessage.textContent = "✅ You can access adult content.";
+  }
+}
+
+// Greeting and age in months
+function greet(name, age) {
+  const months = age * 12;
+  greeting.textContent = `Hello, ${name}! Welcome to this page.`;
+  ageInMonths.textContent = `Your age in months: ${months}`;
+}
