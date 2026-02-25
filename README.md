@@ -1,8 +1,8 @@
 
 
-# Personalized Webpage Project
+# Personalised Webpage Project
 
-This project is an interactive personalized webpage built using **HTML**, **JavaScript**, and **Tailwind CSS**. The webpage collects a user’s name and age, stores the data in **localStorage**, and displays personalized content such as greetings, age in months, and motivational quotes.
+This project is an interactive personalised webpage built using **HTML**, **JavaScript**, and **Tailwind CSS**. The webpage collects a user’s name and age, stores the data in **localStorage**, and displays personalized content such as greetings, age in months, and motivational quotes.
 
 ---
 
@@ -15,7 +15,7 @@ Karma Kioko
 The main objective of this project is to collect user information (name and age), process it using JavaScript logic, store it with localStorage, and display meaningful personalized feedback.
 
 ### Key Features
-- **Personalized Greeting:** Retrieves user information from localStorage and dynamically generates a greeting using template literals.  
+- **Personalised Greeting:** Retrieves user information from localStorage and dynamically generates a greeting using template literals.  
 - **Age Calculation:** Converts the user’s age in years to months.  
 - **Conditional Age Verification:** Uses `if...else` logic to determine eligibility for adult content.  
 - **Motivational Quotes:** Renders a motivational quote five times using a loop.  
@@ -42,14 +42,14 @@ The main objective of this project is to collect user information (name and age)
 ---
 
 ##  Live Link
-Visit my website: *(https://github.com/Kxrma35/webpage.git)*
+Visit my website: *(https://kxrma35.github.io/personalized-webpage/)*
 
 ---
 
 ##  Usage Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kxrma35/webpage.git
+   git clone https://github.com/Kxrma35/personalized-webpage.git
    cd webpage
 
 2. Open the project folder.
@@ -57,13 +57,13 @@ Visit my website: *(https://github.com/Kxrma35/webpage.git)*
 3. Launch index.html in any modern browser(Chrome, Edge, Firefox)
 
 ## Known Bugs
-- Therer are currently no known bugs.
+- There are currently no known bugs.
 
 ## Future Improvements
-- `Randomized Quotes`: Display a different motivational quote each time the page loads.
+- `Randomised Quotes`: Display a different motivational quote each time the page loads.
 - `Animations`: Add smooth transitions and animations for a more engaging user experience.
-- `Dark Mode`: Provide theme toggling between light abd dark modes.
-- `Cloud Integration`: Explore saving user data beyond localStorage for scalabiliy.
+- `Dark Mode`: Provide theme toggling between light and dark modes.
+- `Cloud Integration`: Explore saving user data beyond localStorage for scalability.
 
 ## Support & Contact
 - Email: karmanjeruh5@gmail.com
